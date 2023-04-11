@@ -1,6 +1,3 @@
-
-
-
 import 'package:equatable/equatable.dart';
 
 class CounterState extends Equatable {
